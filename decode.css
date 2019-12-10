@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+table,
+td {
+    border: 1px solid rgb(28, 28, 28);
+}
+
+table {
+    height: 50%;
+    left: 37.5%;
+    top: 5%;
+    margin: 30px auto;
+    overflow-y: scroll;
+    position: absolute;
+    width: 25%;
+    font-family: helvetica;
+    text-align: center;
+    font-weight: lighter;
+}
+
+h1 {
+    color: rgb(28, 28, 28)
+}
+
+h2 {
+    font-size: 80%;
+    color: rgb(28, 28, 28)
+}
